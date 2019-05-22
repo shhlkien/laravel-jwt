@@ -1,0 +1,1114 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"Request"
+			],
+			[
+				"d",
+				"def\tFunction"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"posi",
+				"postId"
+			],
+			[
+				"content",
+				"content_excerpt"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"fea",
+				"featurePosts"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"catid",
+				"catId"
+			],
+			[
+				"pso",
+				"post"
+			],
+			[
+				"sess",
+				"_SESSION"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"menu",
+				"menuActivator"
+			],
+			[
+				"menuac",
+				"MenuActivator"
+			],
+			[
+				"find",
+				"findByEmail"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"ghost",
+				"GHOST"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"fo",
+				"fo - for...of"
+			],
+			[
+				"dia",
+				"dialogs"
+			],
+			[
+				"pac",
+				"package-lock.json"
+			],
+			[
+				"afn",
+				"afn - arrow function"
+			],
+			[
+				"cl",
+				"close\tfunction"
+			],
+			[
+				"get",
+				"getter\tget-property …"
+			],
+			[
+				"te",
+				"test2.js"
+			],
+			[
+				"rgba",
+				"rgba(color, alpha)\tbackground"
+			],
+			[
+				"fontw",
+				"_fontawesome.scss"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"conso",
+				"ConsoleWrite()"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"bod",
+				"border\tproperty"
+			],
+			[
+				"conf",
+				"passwordConfirmation"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"va",
+				"validation"
+			],
+			[
+				"exp",
+				"expire"
+			],
+			[
+				"valid",
+				"Validation"
+			],
+			[
+				"coo",
+				"cookies"
+			],
+			[
+				"coopa",
+				"cookieParser"
+			],
+			[
+				"mat",
+				"match"
+			],
+			[
+				"dis",
+				"disconnected"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 2300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Exceptions/Handler.php",
+			"settings":
+			{
+				"buffer_size": 1752,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"project",
+				"Terminal: Open in project folder"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dock",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"newfi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"new",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"new fold",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"build",
+				"Build With: TypeScript"
+			],
+			[
+				"type",
+				"TypeScript: Quick Info Documentation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimeser",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"sublimeserver",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"sss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssau",
+				"Set Syntax: AutoIt Script"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ssj",
+				"Set Syntax: Java"
+			],
+			[
+				"ss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Study/xampp/htdocs/jwt",
+		"/D/Study/xampp/htdocs/jwt/app",
+		"/D/Study/xampp/htdocs/jwt/app/Exceptions",
+		"/D/Study/xampp/htdocs/jwt/app/Http",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers",
+		"/D/Study/xampp/htdocs/jwt/routes"
+	],
+	"file_history":
+	[
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/ApiController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Middleware/JwtMiddleware.php",
+		"/D/Study/xampp/htdocs/jwt/app/Exceptions/Handler.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Kernel.php",
+		"/D/Study/xampp/htdocs/jwt/app/User.php",
+		"/D/Study/xampp/htdocs/jwt/config/app.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Kernel.php",
+		"/D/Study/xampp/htdocs/jwt/config/auth.php",
+		"/D/Study/xampp/htdocs/jwt/routes/web.php",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/PHP/Indentation Rules.tmPreferences",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Middleware/VerifyCsrfToken.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/User.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/routes/web.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/HomeController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/VerificationController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/LoginController.php",
+		"/D/Study/xampp/htdocs/jwt/.env",
+		"/D/Study/xampp/htdocs/jwt/jwt.sublime-project",
+		"/D/Study/xampp/htdocs/jwt/.gitignore",
+		"/D/Study/xampp/htdocs/jwt/laravel-jwt.sublime-project",
+		"/D/Study/xampp/htdocs/laravel-jwt/laravel-jwt.sublime-project",
+		"/D/Study/xampp/htdocs/laravel-jwt/routes/api.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Requests/RegisterAuthRequest.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/ProductController.php",
+		"/D/Study/xampp/htdocs/test-jwt/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Study/xampp/htdocs/test-jwt/database/migrations/2018_05_21_150200_create_products_table.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/.env",
+		"/D/Study/xampp/htdocs/test-jwt/.env",
+		"/D/Study/xampp/htdocs/test-jwt/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Product.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/database/migrations/2019_05_21_023700_create_products_table.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/config/jwt.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/config/auth.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/.gitignore",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/Controller.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/config/app.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/server.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/.env.example",
+		"/D/Study/xampp/htdocs/laravel-jwt/readme.md",
+		"/D/Study/xampp/htdocs/laravel-jwt/artisan",
+		"/D/Study/xampp/htdocs/laravel-jwt/composer.lock",
+		"/D/Study/xampp/htdocs/laravel-jwt/.gitattributes",
+		"/D/Study/xampp/htdocs/laravel-jwt/.editorconfig",
+		"/D/Study/python/py.sublime-project",
+		"/D/Study/python/loop.py",
+		"/D/Study/xampp/htdocs/dulich/project.sublime-project",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/TypeScript/typescript/commands/error_list.py",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/TypeScript/typescript/commands/settings.py",
+		"/D/Study/python/__pycache__/loop.cpython-36.pyc",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/Python/Python.sublime-syntax",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/Python/Python.sublime-build",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/Python/syntax_test_python.py",
+		"/D/Study/Node.js/eightplus/.gitignore",
+		"/C/Program Files/Microsoft VS Code/bin/Code/bin/code",
+		"/D/Study/xampp/htdocs/dulich/application/models/PostModel.php",
+		"/D/Study/Node.js/eightplus/routes/api/room.js",
+		"/D/Study/xampp/htdocs/dulich/application/views/home.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/home-header.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/category.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/Category.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/search.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/User.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danhSachBaiViet.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/Post.php",
+		"/D/Study/xampp/htdocs/dulich/application/config/routes.php",
+		"/D/Study/xampp/htdocs/dulich/application/models/CategoryModel.php",
+		"/D/Study/xampp/htdocs/dulich/application/models/SlideModel.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/Home.php",
+		"/D/Study/xampp/htdocs/dulich/dist/js/cmt-mgt.js",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danhSachComment.php",
+		"/D/Study/xampp/htdocs/dulich/application/models/CommentModel.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/Comment.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danhSachDanhMucBaiViet.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/post.php",
+		"/D/Study/xampp/htdocs/dulich/application/controllers/Slide.php",
+		"/D/Study/xampp/htdocs/dulich/dist/js/post.js",
+		"/D/Study/xampp/htdocs/dulich/application/views/home-footer.php",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/PHP/Snippets/php-echo-___.sublime-snippet",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/User/Snippets/PHP/php.sublime-completions",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/PHP/Snippets/echo-___.sublime-snippet",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/PHP/Snippets/php-echo-$this.sublime-snippet",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danSachSlide.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danhSachThanhVien.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/home-css.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/dashboard-css.php",
+		"/D/Study/xampp/htdocs/dulich/dist/js/slide-mgt.js",
+		"/D/Study/xampp/htdocs/dulich/application/models/PostsCatsModel.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_themBaiViet.php",
+		"/D/Study/xampp/htdocs/dulich/application/models/UserModel.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/dashboard-menu.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_danhSachAnh.php",
+		"/D/Study/xampp/htdocs/dulich/dist/images/5ce0261ba7bcd.jpg",
+		"/D/Study/xampp/htdocs/dulich/dist/js/post-add.js",
+		"/D/Study/xampp/htdocs/dulich/dist/js/post-mgt.js",
+		"/D/Study/xampp/htdocs/dulich/dist/js/cat-mgt.js",
+		"/D/Study/xampp/htdocs/_dulich/views/ql_danhSachBaiViet.php",
+		"/D/Study/xampp/htdocs/dulich/dist/images/5cde8509d13d5.jpg",
+		"/D/Study/xampp/htdocs/dulich/application/views/errors/html/error_exception.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/errors/html/error_php.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/errors/html/error_general.php",
+		"/D/Study/AutoIT/EyesCare.au3",
+		"/D/Study/xampp/htdocs/dulich/application/libraries/slug.php",
+		"/D/Study/xampp/htdocs/dulich/application/helpers/slug_helper.php",
+		"/D/Study/xampp/htdocs/like-unsplash/application/libraries/Slug.php",
+		"/D/Study/xampp/htdocs/kien/pure-php/test/index2.php",
+		"/D/Study/xampp/htdocs/like-unsplash/application/core/MY_Controller.php",
+		"/D/Study/xampp/htdocs/like-unsplash/application/controllers/Photos.php",
+		"/D/Study/xampp/htdocs/dulich/dist/images/5cde775f6dce4.jpg",
+		"/D/Study/xampp/htdocs/dulich/dist/js/login.js",
+		"/D/Study/xampp/htdocs/dulich/dist/js/user-mgt.js",
+		"/D/Study/xampp/htdocs/dulich/application/views/ql_themDanhMucBaiViet.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/home-js.php",
+		"/D/Study/xampp/htdocs/dulich/vendor/ckeditor/config.js",
+		"/D/Study/xampp/htdocs/dulich/vendor/ckeditor/ckeditor.js",
+		"/D/Study/xampp/htdocs/dulich/vendor/ckeditor/styles.js",
+		"/D/Study/xampp/htdocs/dulich/dist/js/dashboard.js",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/User/Snippets/PHP/CI/ci_controller.sublime-snippet",
+		"/D/Study/xampp/htdocs/dulich/application/views/login.php",
+		"/D/Study/xampp/htdocs/dulich/application/views/register.php",
+		"/D/Study/xampp/htdocs/like-unsplash/application/controllers/Signin.php",
+		"/D/Study/xampp/htdocs/dulich/dist/js/register.js",
+		"/D/Study/xampp/htdocs/dulich/dist/css/style.css",
+		"/D/Study/xampp/htdocs/kien/pure-php/test/index3.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			", $exception->getStatusCode()",
+			"request",
+			"trim",
+			"JWTAuthServiceProvider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"req"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tabs_extra_last_activated": 1558451455.98,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1896,
+								1896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tabs_extra_last_activated": 1558451654.42,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1558451326.74,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Exceptions/Handler.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1519,
+								1519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1558451633.66,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jwt.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"jwt\\config\\app.php"
+			],
+			[
+				"auth",
+				"jwt\\config\\auth.php"
+			],
+			[
+				"routes/api",
+				"jwt\\routes\\api.php"
+			],
+			[
+				"config/au",
+				"jwt\\config\\auth.php"
+			],
+			[
+				"user",
+				"laravel-jwt\\app\\User.php"
+			],
+			[
+				"",
+				"routes\\api.php"
+			],
+			[
+				"producco",
+				"app\\Http\\Controllers\\ProductController.php"
+			],
+			[
+				"migrat",
+				"database\\migrations\\2014_10_12_100000_create_password_resets_table.php"
+			],
+			[
+				"createpro",
+				"database\\migrations\\2019_05_21_023700_create_products_table.php"
+			],
+			[
+				"create",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"database/migration",
+				"database\\migrations\\2019_05_21_023700_create_products_table.php"
+			],
+			[
+				"commem",
+				"dulich\\application\\models\\CommentModel.php"
+			],
+			[
+				"post.js",
+				"dulich\\dist\\js\\post.js"
+			],
+			[
+				"postm",
+				"dulich\\application\\models\\PostModel.php"
+			],
+			[
+				"slidem",
+				"dulich\\application\\models\\SlideModel.php"
+			],
+			[
+				"catemod",
+				"dulich\\application\\models\\CategoryModel.php"
+			],
+			[
+				"menu",
+				"dulich\\application\\views\\dashboard-menu.php"
+			],
+			[
+				"usermo",
+				"dulich\\application\\models\\UserModel.php"
+			],
+			[
+				"slid",
+				"dulich\\application\\controllers\\Slide.php"
+			],
+			[
+				"slidemo",
+				"dulich\\application\\models\\SlideModel.php"
+			],
+			[
+				"ql_danhSachDanhMucBaiViet",
+				"dulich\\application\\views\\ql_danhSachDanhMucBaiViet.php"
+			],
+			[
+				"catmgt",
+				"dulich\\dist\\js\\cat-mgt.js"
+			],
+			[
+				"qldanh",
+				"dulich\\application\\views\\ql_danhSachBaiViet.php"
+			],
+			[
+				"qldanhsachbai",
+				"_dulich\\views\\ql_danhSachBaiViet.php"
+			],
+			[
+				"cate",
+				"dulich\\application\\views\\category.php"
+			],
+			[
+				"catmod",
+				"dulich\\application\\models\\CategoryModel.php"
+			],
+			[
+				"catmg",
+				"dulich\\dist\\js\\cat-mgt.js"
+			],
+			[
+				"post-add",
+				"dulich\\dist\\js\\post-add.js"
+			],
+			[
+				"post",
+				"dulich\\application\\views\\post.php"
+			],
+			[
+				"qli sanhsachbai",
+				"dulich\\application\\views\\ql_danhSachBaiViet.php"
+			],
+			[
+				"ql_danhsachbai",
+				"_dulich\\views\\ql_danhSachBaiViet.php"
+			],
+			[
+				"userm",
+				"dulich\\application\\models\\UserModel.php"
+			],
+			[
+				"register.php",
+				"dulich\\application\\views\\register.php"
+			],
+			[
+				"route",
+				"dulich\\application\\config\\routes.php"
+			],
+			[
+				"con",
+				"dulich\\application\\config\\config.php"
+			],
+			[
+				"home",
+				"dulich\\application\\views\\home.php"
+			],
+			[
+				"index.php",
+				"dulich\\index.php"
+			],
+			[
+				"js.",
+				"JS\\js.sublime-completions"
+			],
+			[
+				"models token",
+				"eightplus\\models\\token.js"
+			],
+			[
+				"midd",
+				"eightplus\\routes\\middleware\\auth.js"
+			],
+			[
+				"env",
+				"eightplus\\.env"
+			],
+			[
+				"models",
+				"eightplus\\models\\user.js"
+			],
+			[
+				"user.js",
+				"eightplus\\models\\user.js"
+			],
+			[
+				"room",
+				"eightplus\\api\\Room.js"
+			],
+			[
+				"ind",
+				"eightplus\\index.js"
+			],
+			[
+				"models\\",
+				"eightplus\\models\\user.js"
+			],
+			[
+				"in",
+				"eightplus\\index.js"
+			],
+			[
+				"rea",
+				"eightplus\\readme.md"
+			],
+			[
+				".",
+				"eightplus\\.env"
+			],
+			[
+				"au",
+				"eightplus\\routes\\middleware\\auth.js"
+			],
+			[
+				".en",
+				"eightplus\\.env"
+			],
+			[
+				"rout",
+				"like-unsplash\\application\\config\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Study\\Node.js\\restful api shop\\project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
