@@ -52,28 +52,36 @@ For more informations about JWTAuth, visit [jwt-auth](https://jwt-auth.readthedo
 1. Registering a new user:
 ``` POST domain/api/v1/auth/register ```
 > Form data: name, email, password
+>
 > Returns: a JSON includes access_token if ok
 2. Logging in:
 ``` POST domain/api/v1/auth/login ```
 > Form data: email, password
+>
 > Returns: a JSON includes access_token if ok
 3. Retrieving user's infos:
 ``` GET domain/api/v1/auth/me ```
 > Headers: Bearer Token
+>
 > Returns: a JSON includes user's data if ok
 4. Logging out:
 ``` POST domain/api/v1/auth/logout ```
 > Headers: Bearer Token
+>
 > Returns: a JSON with ok message
 5. Reseting password:
 ``` POST domain/api/v1/auth/reset-password ```
 > Form data: password, password_confirmation
+>
 > Headers: Bearer Token
+>
 > Returns: a JSON includes new access_token if ok
 6. Refreshing token:
 ``` POST domain/api/v1/auth/refresh ```
 > Form data: password, password_confirmation
+>
 > Headers: Bearer Token
+>
 > Returns: a JSON includes new access_token if ok
 
 ## License
