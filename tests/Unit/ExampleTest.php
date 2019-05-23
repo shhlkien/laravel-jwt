@@ -1,9 +1,10 @@
 <?php
 
-namespace Tests\Unit;
+namespace Unit;
 
-use Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use Tests\TestCase;
+
 
 class ExampleTest extends TestCase
 {
@@ -14,6 +15,11 @@ class ExampleTest extends TestCase
      */
     public function testBasicTest()
     {
-        $this->assertTrue(true);
+        $this->assertTrue(false);
+    }
+
+    public function test_multiply()
+    {
+    	$this->assertEquals(4 * 5, 201);
     }
 }

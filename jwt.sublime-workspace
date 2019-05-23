@@ -203,7 +203,7 @@
 			"file": "routes/api.php",
 			"settings":
 			{
-				"buffer_size": 986,
+				"buffer_size": 1011,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -212,25 +212,16 @@
 			"file": "app/Http/Controllers/AuthController.php",
 			"settings":
 			{
-				"buffer_size": 2300,
+				"buffer_size": 2121,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/Http/Kernel.php",
+			"file": "readme.md",
 			"settings":
 			{
-				"buffer_size": 3100,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Exceptions/Handler.php",
-			"settings":
-			{
-				"buffer_size": 1752,
+				"buffer_size": 3093,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -500,19 +491,21 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Study/xampp/htdocs/jwt",
-		"/D/Study/xampp/htdocs/jwt/app",
-		"/D/Study/xampp/htdocs/jwt/app/Exceptions",
-		"/D/Study/xampp/htdocs/jwt/app/Http",
-		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers",
-		"/D/Study/xampp/htdocs/jwt/routes"
+		"/D/Study/xampp/htdocs/jwt"
 	],
 	"file_history":
 	[
-		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/ApiController.php",
+		"/D/Study/xampp/htdocs/jwt/.gitignore",
+		"/D/Study/xampp/htdocs/jwt/.env",
+		"/D/Study/xampp/htdocs/jwt/app/Http/Kernel.php",
+		"/D/Softwares/Programming/web/Sublime text/Data/Packages/User/Snippets/readme.sublime-snippet",
+		"/D/Study/xampp/htdocs/jwt/.env.example",
+		"/D/Study/xampp/htdocs/jwt/jwt.sublime-project",
+		"/D/Study/xampp/htdocs/jwt/composer.json",
+		"/D/Study/xampp/htdocs/jwt/package.json",
 		"/D/Study/xampp/htdocs/jwt/app/Http/Middleware/JwtMiddleware.php",
 		"/D/Study/xampp/htdocs/jwt/app/Exceptions/Handler.php",
-		"/D/Study/xampp/htdocs/jwt/app/Http/Kernel.php",
+		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Controllers/ApiController.php",
 		"/D/Study/xampp/htdocs/jwt/app/User.php",
 		"/D/Study/xampp/htdocs/jwt/config/app.php",
 		"/D/Study/xampp/htdocs/laravel-jwt/app/Http/Kernel.php",
@@ -528,9 +521,6 @@
 		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/ResetPasswordController.php",
 		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/ForgotPasswordController.php",
 		"/D/Study/xampp/htdocs/jwt/app/Http/Controllers/Auth/LoginController.php",
-		"/D/Study/xampp/htdocs/jwt/.env",
-		"/D/Study/xampp/htdocs/jwt/jwt.sublime-project",
-		"/D/Study/xampp/htdocs/jwt/.gitignore",
 		"/D/Study/xampp/htdocs/jwt/laravel-jwt.sublime-project",
 		"/D/Study/xampp/htdocs/laravel-jwt/laravel-jwt.sublime-project",
 		"/D/Study/xampp/htdocs/laravel-jwt/routes/api.php",
@@ -632,11 +622,7 @@
 		"/D/Study/xampp/htdocs/dulich/dist/js/dashboard.js",
 		"/D/Softwares/Programming/web/Sublime text/Data/Packages/User/Snippets/PHP/CI/ci_controller.sublime-snippet",
 		"/D/Study/xampp/htdocs/dulich/application/views/login.php",
-		"/D/Study/xampp/htdocs/dulich/application/views/register.php",
-		"/D/Study/xampp/htdocs/like-unsplash/application/controllers/Signin.php",
-		"/D/Study/xampp/htdocs/dulich/dist/js/register.js",
-		"/D/Study/xampp/htdocs/dulich/dist/css/style.css",
-		"/D/Study/xampp/htdocs/kien/pure-php/test/index3.php"
+		"/D/Study/xampp/htdocs/dulich/application/views/register.php"
 	],
 	"find":
 	{
@@ -676,7 +662,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -685,25 +671,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 986,
+						"buffer_size": 1011,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								600,
-								600
+								725,
+								725
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tabs_extra_last_activated": 1558451455.98,
+							"tabs_extra_last_activated": 1558493222.46,
 							"tabs_extra_last_activated_sheet_index": 0
 						},
 						"translation.x": 0.0,
-						"translation.y": 240.0,
+						"translation.y": 176.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -715,95 +701,60 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2300,
+						"buffer_size": 2121,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1896,
-								1896
+								1951,
+								1951
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tabs_extra_last_activated": 1558451654.42,
+							"tabs_extra_last_activated": 1558495498.24,
 							"tabs_extra_last_activated_sheet_index": 1,
 							"tabs_extra_spawned": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 585.0,
+						"translation.y": 917.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/Http/Kernel.php",
+					"file": "readme.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3100,
+						"buffer_size": 3093,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1804,
-								1804
+								1336,
+								1336
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"tabs_extra_last_activated": 1558451326.74,
-							"tabs_extra_last_activated_sheet_index": 3,
-							"tabs_extra_spawned": true,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tabs_extra_last_activated": 1558537893.15,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 528.0,
+						"translation.y": 961.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/Exceptions/Handler.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1519,
-								1519
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"tabs_extra_last_activated": 1558451633.66,
-							"tabs_extra_last_activated_sheet_index": 3,
-							"tabs_extra_spawned": true,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 720.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

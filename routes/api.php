@@ -22,7 +22,7 @@ Route::group([
 	'middleware' => ['api'],
 	'prefix' => 'v1/auth'
 
-], function ($router) {
+], function () {
 
 	Route::post('register', 'AuthController@register');
 	Route::post('login', 'AuthController@login');
