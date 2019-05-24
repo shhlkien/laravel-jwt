@@ -34,6 +34,10 @@ class Handler extends ExceptionHandler
      */
     public function report(Exception $exception)
     {
+        if (app()->environment() === 'testing') {
+            throw $exception;
+        }
+
         parent::report($exception);
     }
 
@@ -46,27 +50,27 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Exception $exception)
     {
-        if ($exception instanceof Tymon\JWTAuth\Exceptions\TokenExpiredException) {
+        if ($exception instanceof \Symfony\Component\HttpKernel\Exception\UnauthorizedHttpException) {
 
             return response()->json([
                 'ok' => false,
-                'errors' => 'token_expired'
-            ]);
-        } else if ($exception instanceof Tymon\JWTAuth\Exceptions\TokenInvalidException) {
-
-            return response()->json([
-                'ok' => false,
-                'errors' => 'token_invalid'
-            ]);
+                'message' => 'unauthorized'
+            ], 401);
         }
-        else if ($exception instanceof Symfony\Component\HttpKernel\Exception\UnauthorizedHttpException) {
+        else if ($exception instanceof \Symfony\Component\HttpKernel\Exception\NotFoundHttpException) {
 
             return response()->json([
                 'ok' => false,
-                'errors' => 'token_invalid'
-            ]);
+                'message' => 'not found'
+            ], 404);
         }
+        else if ($exception instanceof \Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException) {
 
+            return response()->json([
+                'ok' => false,
+                'message' => 'method not allowed'
+            ], 405);
+        }
 
         return parent::render($request, $exception);
     }

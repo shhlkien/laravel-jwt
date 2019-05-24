@@ -2,7 +2,7 @@
 A simple test project for user authentication with Laravel and JWT
 
 ## Build status
-[![Build Status](https://img.shields.io/badge/build-developing-blue.svg)]()
+[![Build Status](https://img.shields.io/badge/build-passing-success.svg)]()
 
 ## Tech/framework used
 - Laravel 5.8

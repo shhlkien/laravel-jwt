@@ -60,7 +60,7 @@ class AuthController extends Controller
 		if (!$token) {
 			return response()->json([
 				'ok' => false,
-				'error' => 'Unauthorized'
+				'message' => 'Unauthorized'
 			], 401);
 		}
 
